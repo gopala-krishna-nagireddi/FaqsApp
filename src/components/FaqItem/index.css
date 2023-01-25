@@ -1,0 +1,28 @@
+/* Write your code here. */
+.faq-item {
+  border: 1px solid #e4e7eb;
+  margin-bottom: 25px;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.question-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.answer-container > hr {
+  color: #e4e7eb;
+  opacity: 0.4;
+}
+
+.question {
+  color: #52606d;
+  margin-right: 20px;
+}
+
+.answer {
+  color: #9aa5b1;
+  font-size: 20px;
+}
